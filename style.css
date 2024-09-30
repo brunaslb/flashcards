@@ -30,6 +30,10 @@ footer{
 
 .conteudo-cartao{
     background-color: var(--cartão-frente);
+    text-align: center;
+    height: 100%;
+    transform-style: preserv-3d;
+    transition: transform 300ms ease-in-out
 }
 
 .cartao{
@@ -49,5 +53,18 @@ footer{
 
 .conteudo-cartaop{
     margin-top: 1rem;
-    padding-top: 2rem;
+    padding-top: 4rem;
+}
+
+.cartao.active .conteudo-cartao{
+    transform: rotateY(180deg)
+}
+
+.resposta-cartao p{
+    color: var(--cartão-verso);
+    font-weight: 700;
+}
+
+.cartao.active .conteudo-cartao{
+    transform: rotateY(180deg);
 }
