@@ -40,7 +40,6 @@ footer{
     margin: 1rem;
     flex-grow: 1;
     flex-basis: calc(33% - 6rem);
-
 }
 
 .conteudo-cartao h3{
@@ -49,7 +48,6 @@ footer{
     padding: 0.5rem;
     margin: 0.6rem;
 }
-
 
 .conteudo-cartaop{
     margin-top: 1rem;
@@ -67,4 +65,13 @@ footer{
 
 .cartao.active .conteudo-cartao{
     transform: rotateY(180deg);
+}
+
+.cartao.active .conteudo-cartao {
+    transform: rotateY(180deg);
+}
+
+.pergunta-cartao,
+.resposta-cartao {
+    blackface-visibility; hidden
 }
