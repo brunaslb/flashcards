@@ -7,13 +7,13 @@ criaCartao(
 criaCartao(
     'Física',
     'Como calcular ∆s?',
-    '∆s= V*∆t'
+    '∆S= V*∆t'
 )
 
 criaCartao(
     'Física',
     'Como calcular ∆t?',
-    '∆t= ∆5/V'
+    '∆t= ∆S/V'
 )
 
 criaCartao(
