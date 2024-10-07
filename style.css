@@ -2,13 +2,13 @@
     --fundo: gray;
     --cartão-frente: rgb(253, 215, 80);
     --cartão-verso: yellow;
-    --preto: black;
+    --branco: white;
     --preto: black;
     --destaque: green;
 }
 
 body{
-    background-color: var (--fundo);
+    background-color: var(--fundo);
 }
 
 footer{
