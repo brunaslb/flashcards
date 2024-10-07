@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Física',
     'Qual a fórmula da aceleração média (Am)?',
-    '∆V/∆E'
+    '∆V/∆T'
 )
 
 criaCartao(
