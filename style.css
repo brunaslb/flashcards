@@ -1,6 +1,6 @@
 :root{
-    --fundo: gray;
-    --cartão-frente: rgb(253, 215, 80);
+    --fundo: rgb(95, 95, 95);
+    --cartão-frente: rgb(207, 139, 255);
     --cartão-verso: yellow;
     --branco: white;
     --preto: black;
