@@ -2,7 +2,7 @@
     --fundo: rgb(95, 95, 95);
     --cartão-frente: rgb(207, 139, 255);
     --cartão-verso: yellow;
-    --branco: white;
+    --branco: rgb(0, 0, 0);
     --preto: black;
     --destaque: green;
 }
