@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Física',
-    'Como calcular ∆s?',
+    'Como cal∆scular ?',
     '∆S= V*∆t'
 )
 

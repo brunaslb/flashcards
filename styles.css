@@ -1,0 +1,10 @@
+.Cards{
+baxkground-color: blue
+margin: 15px;
+padding: 20px;
+}
+.Resposta{
+    display: none;
+    background-color: blueviolet;
+    padding: 15px;
+}
